@@ -18,7 +18,11 @@
                         \:\__\        \::/  /       \::/  /       \:\__\        |:|  |         /:/  /         \::/  /       \::/  /   
                          \/__/         \/__/         \/__/         \/__/         \|__|         \/__/           \/__/         \/__/    
 
-                  A web os by a 10 year old
+
+
+
+
+A web os by a 10 year old
 
 inquries pls email: minecraftpcgamer45@outlook.com
                 or DM SheetCpiano
